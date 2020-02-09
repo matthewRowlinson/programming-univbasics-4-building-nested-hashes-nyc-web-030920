@@ -1,8 +1,8 @@
 def base_hash
   # Remember implicit return! We're returning this new Hash _without_ the
   # keyword "return." Nice and neat.
-	{:browser => {
-	  :chrome => {}, :edge => {}, :firefox => {}, :explorer => {}, :opera => {}
+	monopoly = {railroads: => {
+	  :chrome => {}, :amtrack => {}, :lirr => {}, :continental => {}, :westcoast => {}
 	}}
 end
 
