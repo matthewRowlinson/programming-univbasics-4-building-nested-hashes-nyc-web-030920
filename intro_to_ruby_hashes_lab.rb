@@ -21,7 +21,7 @@ def monopoly_with_third_tier
   # complexity.
   monopoly = { :railroads => {
     :pieces => 4, :rent_in_dollars => {
-      :one_piece_owned => 1, :key2 => 2, :key3 => 3, :key4 => 4},
+      :one_piece_owned => 25, :key2 => 2, :key3 => 3, :key4 => 4},
     :names => {:railroad1 => 1, :railroad2 => 2, :railroad3 => 3, :railroad4 => 4}
   }}
 end
